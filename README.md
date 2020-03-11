@@ -1,2 +1,4 @@
 # bash
-Bash and Shell Code and Assignments
+Bash / Shell Programs
+
+This is a collection of all notable bash and shell coding projects I have completed.
